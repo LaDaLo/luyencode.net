@@ -1,5 +1,11 @@
+/*
+---------------luyencode.net----------------------------------
+---------------Problem: CB03-------------------------------
+---------------Author: LaDaLo---------------------------------
+---------------Time: 2022-05-24 18:10:16.049052+07:00---------
+*/
+
 #include <iostream>
-#include <iomanip>
 #include <vector>
 #include <queue>
 #include <map>
@@ -26,7 +32,10 @@ int main()
     FAST_IO;
     // --------------- Solve ---------------  \\ 
     
-    
+    int a, b, c;
+    cin >> a >> b >> c;
+
+    cout << a + b + c;
 }
 
 

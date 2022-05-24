@@ -1,3 +1,10 @@
+/*
+---------------luyencode.net----------------------------------
+---------------Problem: CB04-------------------------------
+---------------Author: LaDaLo---------------------------------
+---------------Time: 2022-05-24 18:23:14.654635+07:00---------
+*/
+
 #include <iostream>
 #include <iomanip>
 #include <vector>
@@ -26,7 +33,15 @@ int main()
     FAST_IO;
     // --------------- Solve ---------------  \\ 
     
-    
+    int a, b;
+    cin >> a >> b;
+    cout << a + b << '\n';
+    cout << a - b << '\n';
+    cout << a * b << '\n';
+    if (b == 0)
+        cout << "INF\n";
+    else
+        cout << fixed << setprecision(2) << static_cast<float>(a) / b << '\n';
 }
 
 
