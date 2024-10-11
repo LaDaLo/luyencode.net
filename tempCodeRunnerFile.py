@@ -1,2 +1,0 @@
-
-if len(d) <= val:
