@@ -1,2 +1,0 @@
-
-#ifndef ONLINE_JUDGE
