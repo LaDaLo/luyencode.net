@@ -1,6 +1,19 @@
 {
     "files.associations": {
         "iostream": "cpp",
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "unordered_map": "cpp",
+        "queue": "cpp",
+        "array": "cpp",
+        "climits": "cpp",
+        "cstdint": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "span": "cpp",
+        "iosfwd": "cpp",
+        "cmath": "cpp",
+        "random": "cpp",
+        "limits": "cpp"
     }
 }
