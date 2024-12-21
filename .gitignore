@@ -1,6 +1,6 @@
 gen.bat
-input.txt
-output.txt
+*.inp
+*.out
 Create_New_Problem.py
 output/
 .vscode/
